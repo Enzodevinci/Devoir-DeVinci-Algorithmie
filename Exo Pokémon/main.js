@@ -1,4 +1,4 @@
-alert("Je fonctionne Bien")
+alert("Exercice Pokémon")
 
 class pokémon {
     constructor (name, attack, defense, hp, luck){
