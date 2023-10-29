@@ -1,4 +1,4 @@
-alert("Je fonctionne Bien")
+alert("Exercice Taxi")
 
 var john = 10
 var feuRouge = 0
