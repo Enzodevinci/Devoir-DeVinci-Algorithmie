@@ -1,4 +1,4 @@
-alert("Je fonctionne Bien")
+alert("Exercice Jason")
 
 var jason = 100
 const survivant = ['Sportif', 'Recrue', 'Toxico', 'Blonde', 'Rousse']
